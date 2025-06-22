@@ -1,3 +1,4 @@
 test git
 added line for emergency fix
 added second line to confict emergency.Conflict fixed.
+check diff
